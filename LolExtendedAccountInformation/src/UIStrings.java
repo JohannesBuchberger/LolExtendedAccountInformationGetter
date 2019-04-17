@@ -12,4 +12,7 @@ public interface UIStrings {
 			String Not_Found = "This summoner does not exist";
 		}
 	}
+	interface NonRandomGameModes {
+		String[] Gamemodes = {"CLASSIC", "TUTORIAL"};
+	}
 }

@@ -19,7 +19,7 @@ public class SummonerInfo {
 				+ "name: %s, "
 				+ "accountId: %s, "
 				+ "puuid: %s, "
-				+ "summonderLeve: %s", 
+				+ "summonderLevel: %s", 
 				key, 
 				name, 
 				accountId, 
